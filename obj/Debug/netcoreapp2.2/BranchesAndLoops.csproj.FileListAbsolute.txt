@@ -1,0 +1,11 @@
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/bin/Debug/netcoreapp2.2/BranchesAndLoops.deps.json
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/bin/Debug/netcoreapp2.2/BranchesAndLoops.runtimeconfig.json
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/bin/Debug/netcoreapp2.2/BranchesAndLoops.runtimeconfig.dev.json
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/bin/Debug/netcoreapp2.2/BranchesAndLoops.dll
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/bin/Debug/netcoreapp2.2/BranchesAndLoops.pdb
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/obj/Debug/netcoreapp2.2/BranchesAndLoops.csprojAssemblyReference.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/obj/Debug/netcoreapp2.2/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/obj/Debug/netcoreapp2.2/BranchesAndLoops.AssemblyInfoInputs.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/obj/Debug/netcoreapp2.2/BranchesAndLoops.AssemblyInfo.cs
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/obj/Debug/netcoreapp2.2/BranchesAndLoops.dll
+/Users/francisco/Google Drive/Bootcamp/Practica/branches-tutorial/BranchesAndLoops/BranchesAndLoops/obj/Debug/netcoreapp2.2/BranchesAndLoops.pdb
